@@ -15,6 +15,7 @@
 
         <Button
             android:id="@+id/toolbox_btn_send"
+            android:background="@android:color/holo_blue_bright"
             android:layout_width="wrap_content"
             android:layout_height="35dp"
             android:layout_alignParentRight="true"
